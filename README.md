@@ -165,7 +165,7 @@ Se coloca adelante debido a que tiene menor angulo
 
 ![image](https://user-images.githubusercontent.com/116772918/213005262-3401a3e9-5725-4049-9d84-22dd18a8650b.png)
 
-![image](https://user-images.githubusercontent.com/116772918/213005991-a03560c4-016d-4d82-b518-0de4a85dabfe.png)
+![image](https://user-images.githubusercontent.com/116772918/213006755-8bc3d438-25b2-4fd8-8532-d71fc02f66cb.png)
 
 ![image](https://user-images.githubusercontent.com/116772918/213006224-dc5528fb-c67d-4612-a8e0-3752508846c8.png)
 
