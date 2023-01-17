@@ -9,7 +9,7 @@
  
 * Juan David Paucar Amagua
 
-**TAREA Nº5**
+**TAREA Nº6**
 
 **FECHA DE ENTREGA**
 * 06/01/2023
