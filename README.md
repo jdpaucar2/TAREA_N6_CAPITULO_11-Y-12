@@ -193,21 +193,152 @@ Se coloca adelante debido a que tiene menor angulo
 
 
 
-
-
-
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 3.2 CAPITULO 10
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1.-(a) Encuentre la capacitancia cuando Q = 50 μC y V = 10 V.
+
+![image](https://user-images.githubusercontent.com/116772918/213007440-bd7e4e6f-f227-42f8-a589-8693debe43ed.png)
+
+(b) Determine la carga cuando C =0.001 μF y V = 1 kV.
+
+![image](https://user-images.githubusercontent.com/116772918/213007486-3611f413-e5fc-4c9f-858b-bf4d669360c8.png)
+
+(c) Determine el voltaje cuando Q = 2 mC y C = 200 μF.
+
+![image](https://user-images.githubusercontent.com/116772918/213007564-1fde9c08-0518-408e-a1f1-fce2ee7523c0.png)
 
 
+3.- Transforme los siguientes valores de picofarads a microfarads:
+
+![image](https://user-images.githubusercontent.com/116772918/213007722-7fa1be0d-4189-4f5b-a1cf-19413ec3ffc3.png)
+
+
+5.- ¿Cuánta energía guarda un capacitor de 1000 μF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/116772918/213007808-c9d82c1d-73c5-4abe-9480-0de7eb729c4a.png)
+
+7.- Calcule la permitividad absoluta, ε, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de εr.
+
+![image](https://user-images.githubusercontent.com/116772918/213007879-64c897c1-669e-4d5a-90ce-a8c3540a99ea.png)
+
+![image](https://user-images.githubusercontent.com/116772918/213007916-3fcf9b95-75dc-440e-97ac-865bf3bfeaf7.png)
+
+9.- Un capacitor de aire tiene un área de placas total de 0,05 m^2. La separación entre las placas es de 4.5 X 10^-4 m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/116772918/213008149-a888d867-d3c0-40d2-98f4-25fccff485b6.png)
+
+11.-Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (εr = 2.5) de 8 X 10^-5 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![image](https://user-images.githubusercontent.com/116772918/213008192-16364b79-7ead-44b3-8927-d3065f339ba4.png)
+
+13.- Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+* Incremento de 12.5 pF
+
+15.- De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+![image](https://user-images.githubusercontent.com/116772918/213008662-e47a8d53-b508-44b3-8c4a-bc48d8546f17.png)
+
+* El capacitor con constante dieléctrica más alta es el de cerámica debido a que este material tiene mayor capacidad para establecer un campo eléctrico.
+
+17.-Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+
+* Electróliticos de aluminio
+
+* Electróliticos de tantalio
+
+Los capacitores electrolíticos difieren en otros capacitores porque se polarizan de modo que una placa sea positiva y la otra negativa.
+
+19.-Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+![image](https://user-images.githubusercontent.com/116772918/213008798-fa8fcda3-3983-48de-9f4a-86a91d7abe28.png)
+
+21.-Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+![image](https://user-images.githubusercontent.com/116772918/213008885-ff433010-080d-4c8d-8b19-48c651c3564a.png)
+
+![image](https://user-images.githubusercontent.com/116772918/213008912-ad299796-4605-4aa8-8ec6-080667fd93bd.png)
+
+23.- Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+![image](https://user-images.githubusercontent.com/116772918/213009102-ea52b7a9-dfdf-4454-b37b-666eff4be0c3.png)
+
+25.-Determine la CT para cada circuito de la figura 12-71.
+
+![image](https://user-images.githubusercontent.com/116772918/213009198-8c2f193f-bc75-49fa-981b-8f51de6aa335.png)
+
+27.-Determine la CT para cada circuito de la figura 12-72.
+
+![image](https://user-images.githubusercontent.com/116772918/213009434-b27b3e75-7e56-4e64-b8ff-6c2a7ecb9c51.png)
+
+29.- Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? 
+(b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+![image](https://user-images.githubusercontent.com/116772918/213009788-1730b7cb-55fd-460b-9728-c167c6aab8dc.png)
+
+31.-Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+![image](https://user-images.githubusercontent.com/116772918/213009884-b2968fb6-3258-49d1-a628-3d151cf20b96.png)
+
+33.-En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores? (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
+
+
+![image](https://user-images.githubusercontent.com/116772918/213010049-ade47660-fc51-4df2-ab43-4f57605d3b17.png)
+
+35.-Repita el problema 33 con los siguientes tiempos: (a) 0.5 ms (b) 1 ms (c) 2 ms
+
+![image](https://user-images.githubusercontent.com/116772918/213010106-37a00a0b-d1be-40b3-b13a-0dfb6150bec7.png)
+
+37.-¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/116772918/213010178-5bf0ba1b-0e4a-43df-86be-6f7e4504cfe9.png)
+
+39.-Determine la constante de tiempo para el circuito de la figura 12-77
+
+![image](https://user-images.githubusercontent.com/116772918/213010254-614a2f5c-cc8d-47db-a665-197023bd6a26.png)
+
+
+41.- 
+(a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda
+
+![image](https://user-images.githubusercontent.com/116772918/213010410-407ae1ba-b419-450e-b9cb-89e7fce89040.png)
+
+![image](https://user-images.githubusercontent.com/116772918/213010472-8f4ed915-2790-409b-9322-e78e18b0bca7.png)
+
+43.- En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
+
+![image](https://user-images.githubusercontent.com/116772918/213010597-2b39b281-d762-434f-ac17-2b70779182ee.png)
+
+45.- Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia
+
+
+![image](https://user-images.githubusercontent.com/116772918/213010818-f4431e82-dd03-45a2-a47c-6f73442880d0.png)
+
+47.-Determine la potencia verdadera y la potencia reactiva en el problema 46.
+
+![image](https://user-images.githubusercontent.com/116772918/213011002-3821f409-bcb9-4c45-a91c-104b66fe2f32.png)
+
+49.-Determine el valor de C1 en la figura 12-82.
+
+![image](https://user-images.githubusercontent.com/116772918/213011157-3bf75fa1-3689-4c82-8c88-a3ca378f454f.png)
+
+![image](https://user-images.githubusercontent.com/116772918/213011201-ad4961e5-3154-40b0-b9ab-abdfe3c6441f.png)
+
+51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+![image](https://user-images.githubusercontent.com/116772918/213011434-195b97eb-7851-4a6b-a2ad-1b1df17a2ac6.png)
+
+
+53.- En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula
+
+![image](https://user-images.githubusercontent.com/116772918/213011296-91dd6b65-6ff1-495a-988c-390be1e70d26.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
