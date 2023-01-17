@@ -353,7 +353,7 @@ Los capacitores electrolíticos difieren en otros capacitores porque se polariza
 
 **5. CONCLUSIONES**
 
-
+En conclucion los capacitores y sistemas similares relacionados a los circuitos electricos desempeñan la funcion de un sistema con campo interno de energia que permite varias funcionalidades dentro de un circuito de este tipo, estos tienen la caracteristica de poder ser de diferentes materiales dependiendo de la nececidad de resistencia y capacitancia que el circuito necesite y desempeñan una labor fundamental dentro del desarrollo de los circuitos electricos.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
