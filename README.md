@@ -333,12 +333,14 @@ Los capacitores electrolíticos difieren en otros capacitores porque se polariza
 
 51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
 
-![image](https://user-images.githubusercontent.com/116772918/213011434-195b97eb-7851-4a6b-a2ad-1b1df17a2ac6.png)
+![image](https://user-images.githubusercontent.com/116772918/213011725-627ead5b-8452-47bd-8963-51e5c52fe9ae.png)
+
 
 
 53.- En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula
 
-![image](https://user-images.githubusercontent.com/116772918/213011296-91dd6b65-6ff1-495a-988c-390be1e70d26.png)
+![image](https://user-images.githubusercontent.com/116772918/213011821-20e991c2-147b-4b53-a290-cf8c459c9116.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
